@@ -11,7 +11,7 @@ To run this code you need to:
   
 2. Modify the variable "func" in line 70 (minimalOPT_v01.py), this variable must contain the wolfram script as a string. The "Implementation" section in Wolfram's post includes all the required code (you only need to copy and merge everything as a single string preserving the Wolfram syntax).
   
-3. Use Maya Script Editor to run this modified python code.
+3. Use Maya Script Editor to run the modified python code.
   
 
 Note: Please check [Wolfram's post](https://community.wolfram.com/groups/-/m/t/1341653) , there are some conditions that yor model and some parameters must hold --face size, stepsize_, steps_, etc--.
